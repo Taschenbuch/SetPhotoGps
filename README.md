@@ -1,0 +1,4 @@
+old project of mine. I think it wasnt finished. If i remember it correctly it should somehow work like this: you press the select folder button to select a folder. the folder structure is displayed on the left. you can select multiple images to set their gps meta data. To do that you enter a city name or the gps coordinates of a city at the top. you can get the gps coordinates by using the google map at the bottom right and rightclicking on a location. After that you can press the add gps button to add the gps meta data to the selected images.
+This only works when you have set a google maps api key inside the solution at setphotogps -> properties -> resources.resx . You can get an api key here, i think https://developers.google.com/maps/documentation/javascript/get-api-key 
+
+![gps project](https://user-images.githubusercontent.com/43114787/159959631-f7276b4a-4549-41f5-a93b-9ae3ee60e493.png)
